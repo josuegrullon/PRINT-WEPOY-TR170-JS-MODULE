@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/josuegrullon/Sites/martricesapkventas_withprint_draft_1/platforms/android/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/josuegrullon/Sites/martricesapkventas_withprint_draft_1/platforms/android/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/josuegrullon/Sites/martricesapkventas_withprint/platforms/android/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/josuegrullon/Sites/martricesapkventas_withprint/platforms/android/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    }
+]

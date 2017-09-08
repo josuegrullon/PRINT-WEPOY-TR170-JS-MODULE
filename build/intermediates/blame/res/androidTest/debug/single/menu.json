@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/josuegrullon/Sites/martricesapkventas_withprint/platforms/android/app/build/intermediates/res/merged/androidTest/debug/menu/main.xml",
+        "source": "/Users/josuegrullon/Sites/martricesapkventas_withprint/platforms/android/app/build/intermediates/bundles/debug/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/josuegrullon/Sites/martricesapkventas_withprint_draft_1/platforms/android/app/build/intermediates/res/merged/androidTest/debug/menu/main.xml",
+        "source": "/Users/josuegrullon/Sites/martricesapkventas_withprint_draft_1/platforms/android/app/build/intermediates/bundles/debug/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/merged/androidTest/debug/menu/main.xml",
+        "source": "/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/bundles/debug/res/menu/main.xml"
+    }
+]

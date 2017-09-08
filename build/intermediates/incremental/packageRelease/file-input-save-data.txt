@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Wed Sep 06 14:09:33 AST 2017
+2.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+5.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+6.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/res/drawable-hdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/res/menu/main.xml
+4.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+7.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/assets/release/test.html
+7.set=ASSET
+count=11
+0.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/res/drawable-mdpi-v4/ic_launcher.png
+5.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+8.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/res/layout/activity_main.xml
+4.set=ANDROID_RESOURCE
+6.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+1.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+10.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+1.set=ANDROID_RESOURCE
+7.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/assets/release
+2.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+8.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+3.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+9.base=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_
+4.file=/Users/josuegrullon/Sites/martricesapkventas/platforms/android/app/build/intermediates/res/resources-release.ap_/res/menu-v11/main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
